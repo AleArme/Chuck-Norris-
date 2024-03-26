@@ -1,0 +1,57 @@
+body {
+        font-family: "Rakkas", serif;
+        font-weight: bold;
+        font-style: normal;
+        text-align: center;
+        background-image: url('../Images/Western.png');
+        background-position: center;
+        max-width: max-content;
+        max-height: max-content;
+        margin: 0 auto;
+      }
+  
+  h1 {
+    color: #725e95 ;
+    font-weight: bold;
+    padding-top: 10px;
+    text-shadow: 2px 2px 4px rgb(255, 255, 255);
+  }
+  
+  #joke-container {
+    margin: -25px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    padding: 30px;
+    border-radius: 5px;
+    
+  }
+    
+ #random-joke-btn {
+
+    -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    border-radius: 10px;
+    margin-right: 10px;
+    width: 150px;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+}
+
+ #category-select{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    border-radius: 10px;
+}
+
+#p {
+
+    color: antiquewhite;
+}
